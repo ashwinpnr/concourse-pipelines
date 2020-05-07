@@ -32,7 +32,7 @@ resources:
     username: ((cf-username))
     password: ((cf-password))
     org: ((cf-org))
-    space: development
+    space: ((cf-space))
     skip_cert_check: true
     
 jobs:
