@@ -1,0 +1,9 @@
+key-id: <Key ID for S3 bucket>
+access-key: <Access Key for S3 bucket>
+bucket: <S3 Bucket name>
+bucket-region: <S3 Bucket region>
+cf-api: <clound foundary api name > Eg: api.run.pivotal.io
+cf-org: <cf org name>
+course_api_app_name: <app name in pcf > Eg:course-api-concourse
+cf-username: <Username for PCF>
+cf-password: <Password for PCF>
